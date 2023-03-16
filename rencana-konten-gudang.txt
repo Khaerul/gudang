@@ -3,3 +3,7 @@ rencana konten gudang
 > ada slide
 > ada galeri
 > tanaman
+  - buah
+  - sayur
+  - hias
+> Ikan
