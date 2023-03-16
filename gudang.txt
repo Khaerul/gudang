@@ -1,0 +1,5 @@
+gudang 
+merupakan sebuah aplikasi jual beli dan konten
+> Jual Beli
+> Management Stock
+> Kasir
