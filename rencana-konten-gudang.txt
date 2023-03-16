@@ -6,4 +6,4 @@ rencana konten gudang
   - buah
   - sayur
   - hias
-> Ikan
+> hewan
