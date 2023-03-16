@@ -1,0 +1,2 @@
+# gudang
+aplikasi jual beli 
