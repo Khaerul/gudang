@@ -14,5 +14,6 @@
 </head>
 <body>
     <h1>ini percobaan menggunakan git secara lokal dalam komputer</h1>
+    <h2>mencoba git terminal dalam vs</h2>
 </body>
 </html>
